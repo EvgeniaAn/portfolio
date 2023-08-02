@@ -21,7 +21,7 @@
  
  📌 Trying to improve my QA skills with different assignments: https://github.com/EvgeniaAn/portfolio
  <br />
-  ☑️ The project of mobile game "[My Little Universe](https://github.com/EvgeniaAn/portfolio/blob/main/Project%20for%20App%20-%20My%20Little%20Universe.pdf)". I did analysis of bugs and issues that appeared during the game. Also I tried to understand the core mechanics and analyze what users like and dislike.
+  ☑ The project of mobile game "[My Little Universe](https://github.com/EvgeniaAn/portfolio/blob/main/Project%20for%20App%20-%20My%20Little%20Universe.pdf)". I did analysis of bugs and issues that appeared during the game. Also I tried to understand the core mechanics and analyze what users like and dislike.
 
   ☑️ [Testing the Web Application of "Best Testers"](https://docs.google.com/spreadsheets/d/1c0TnLZ9d3QYnnlnH2BceL4Ywmp7zpxcEq68zG6Xwmfk/edit#gid=0) was about evaluating the application for potential issues and bugs to make sure that the web application is functionally correct.
 <br />
