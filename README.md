@@ -23,6 +23,9 @@
  <br />
   ☑️ The project of mobile game "[My Little Universe](https://github.com/EvgeniaAn/portfolio/blob/main/Project%20for%20App%20-%20My%20Little%20Universe.pdf)". I did analysis of bugs and issues that appeared during the game. Also I tried to understand the core mechanics and analyze what users like and dislike.
 
+  ☑️ [Testing the Web Application of "Best Testers"](https://docs.google.com/spreadsheets/d/1c0TnLZ9d3QYnnlnH2BceL4Ywmp7zpxcEq68zG6Xwmfk/edit#gid=0) was about evaluating the application for potential issues and bugs to make sure that the web application is functionally correct.
+<br />
+<br />
   ☑️ [Testing the Elevator](https://github.com/EvgeniaAn/portfolio/blob/main/Testing%20of%20Elevator%20-%20Check%20list.pdf) and writing the check list to it, I tried to point out all types of functional and unfunctional testing + use some test design techniques that can be helpful for creating test cases.  
 
  ✅ Previously worked on Volunteer project: https://trello.com/b/6JvrNtZT/bug-tracker 
